@@ -4,7 +4,7 @@ This repository contains examples of ChatGPT plugins that demonstrate how to bui
 Each example includes a Dockerfile to help with deployment of the plugin. You can use the Dockerfile to build and run the plugin locally or deploy it to a remote server.
 
 ## Quick Start
-git clone https://github.com/markodevel21/cyanChat.git
+git clone https://github.com/markodev21/cyanChat.git
 
 ``` for backend ```
 cd backend
