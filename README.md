@@ -6,7 +6,7 @@ Each example includes a Dockerfile to help with deployment of the plugin. You ca
 ## Quick Start
 git clone https://github.com/markodev21/cyanChat.git
 
-``` for backend ```
+``` for backend
 cd backend
 pip install -r requirements.txt
 python server.py
